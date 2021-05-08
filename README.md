@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @git-that-goal
+- 👀 I’m interested in ...
+Learning how to actually code and use Docker. At the moment I just self host random apps.
+- 🌱 I’m currently learning ...
+Docker, how to port forward, basics.
+- 💞️ I’m looking to collaborate on ...
+Aboslutely nothing!
+- 📫 How to reach me ...
+Here!
+<!---
+git-that-goal/git-that-goal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
